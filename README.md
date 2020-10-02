@@ -4,6 +4,8 @@ This is a bundle of useful click configs to the uniprobe project 🦄. To add yo
 
 Some prefixed files might be the same as another non-prefixed file, however, the prefixes should help maintain test reproducibility over time.
 
+[**Click Element Documentation**](https://github.com/kohler/click/wiki/Elements)
+
 ### Current Prefixes
 
 > Structure is: `prefix_file-name.click`
